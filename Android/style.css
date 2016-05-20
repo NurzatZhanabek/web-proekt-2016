@@ -1,0 +1,171 @@
+body{
+	margin:0;
+}
+.sotkalar{
+	margin-left: 60%;
+}
+@media only screen and(min-width: 890px) {
+    .sotkalar{
+    	margin-left: 5%;
+    }
+}
+.header{ 
+	height: 60px;
+}
+.icon{
+	float: left;
+	height: 50px;
+	width: 60px;
+	padding: 20px;
+}
+.menu{
+	font-size: 18px;
+	font-family: Roboto, Helvetica, Arial, sans-serif;
+    margin-top: 22px;
+    list-style: none;
+    float: right;
+    margin-left: 10px;         
+}
+.menu li{
+	display: inline;
+	padding: 30px;
+}
+.menu li a{
+	text-decoration: none;
+	color: #ADB4B5;
+}
+.menu li :hover {
+	color: #6ab344;
+	
+}
+.container1{
+	width: 100%;
+	height: 600px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-image: url("img/2.jpg");
+	display: block;
+	color: white;
+	font-family: Roboto, Helvetica, Arial, sans-serif;
+	font-size: 16px;
+
+}
+.container1 h1{
+	text-align: center;
+	padding-top: 80px;
+}
+.head2{
+	background: #6ab344;
+	height: 100px;
+	margin-top: 0px;
+
+}
+.menu2{
+	font-size: 14px;
+	color: white;
+	margin-top: 0px;
+	text-align: center;
+	padding-top: 40px;
+}
+.menu2 li{
+	margin-top: 0px;
+	display: inline;
+	padding: 15px;
+}
+.menu2 li a{
+	color: white;
+	text-decoration: none;
+}
+.menu2 li a:hover{
+	color: #353639;
+}
+.cont2{
+	margin-top: 50px;
+	font-family: Roboto, Helvetica, Arial, sans-serif;
+	text-align: center;
+}
+.imglist li{
+	display: inline;
+	padding: 60px;
+
+}
+
+.cont3{
+	float: none;
+	margin-top: 150px;
+	text-align: center;
+	font-family: Roboto, Helvetica, Arial, sans-serif;
+}
+.par1{
+	font-size: 16px;
+	text-align: center;
+	width: 400px;
+	float: left;
+	margin-left: 200px;
+	margin-right: 40px;
+}
+.par2{
+	text-align: center;
+	width: 400px;
+	float: left;
+	margin-left: 40px;
+	margin-right: 50px;
+}
+.header1{
+	background: white;
+	position: fixed;
+	width: 100%;
+	height: 100px;
+	margin-top: 0px;
+}
+.menu4{
+	float: right;
+	margin-top: 30px;
+	margin-right: 30px;
+}
+.menu4 li {
+	font-size: 18px;
+	display: inline;
+	padding: 30px;
+}
+.menu4 li a{
+	position: relative;
+	text-decoration: none;
+	color: #ADB4B5;
+}
+.menu4 li :hover{
+	color: #6ab344;
+}
+.icon1{
+	float: left;
+	margin:15px;
+}
+#col-head{
+	margin-top: 10px;
+}
+#registration-content{
+	margin-top: 15px;
+	width: 400px;
+	height: 650px;
+	border-style: groove;
+	border-radius: 3;
+	background-color: white;
+}
+#header-conteiner{
+	height: 55px;
+}
+#nav-n{
+	color: #6ab344;
+}
+#Login-content{
+	width: 400px;
+	height: 430px;
+	border-style: groove;
+	border-radius: 3;
+	background-color: white;
+}
+.devices-text{
+	text-align: center;
+	margin-left: 300px;
+	width: 300px;
+}
